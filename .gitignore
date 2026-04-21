@@ -1,0 +1,7 @@
+visenv/
+archive/
+__pycache__/
+*.pyc
+*.png
+.DS_Store
+.ipynb_checkpoints/
