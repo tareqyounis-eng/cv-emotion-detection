@@ -5,3 +5,7 @@ __pycache__/
 *.png
 .DS_Store
 .ipynb_checkpoints/
+.venv/
+models/*.onnx
+runs/
+.pytest_cache/
